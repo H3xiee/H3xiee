@@ -1,20 +1,5 @@
 <img width="2140" height="735" alt="image" src="https://github.com/user-attachments/assets/cd3a2902-1e06-49e1-9df1-88174fce843e" />
 
-from pathlib import Path
-import zipfile, shutil, os, textwrap
-
-base = Path("/mnt/data")
-readme_path = base / "Krishika_GitHub_Profile_README.md"
-banner_candidates = [
-    base / "a_wide_minimal_elegant_banner_style_graphic_with.png",
-    base / "a_wide_cinematic_cyber_tech_themed_banner_hero_i.png",
-    base / "h3xiee-github-banner.png",
-]
-banner_src = next((p for p in banner_candidates if p.exists()), None)
-
-readme = r'''<div align="center">
-
-<img src="assets/github-banner.png" alt="Krishika Chellappandian — H3xiee" width="100%">
 
 # Krishika Chellappandian
 
