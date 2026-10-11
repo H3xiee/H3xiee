@@ -18,7 +18,7 @@
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
 I'm a **Biomedical Engineering graduate** with hands-on experience developing AI and machine learning solutions for healthcare, including **ECG signal processing, computer vision, biomedical data analysis, and full-stack AI applications**.
 
@@ -26,11 +26,11 @@ My current focus is expanding into **Generative AI, LLMs, Retrieval-Augmented Ge
 
 I enjoy taking an idea from **problem → architecture → implementation → testing → working system**.
 
-🎯 **Currently seeking:** Entry-level opportunities in **AI/ML, Data Science, Healthcare AI, and related applied AI roles**.
+ **Currently seeking:** Entry-level opportunities in **AI/ML, Data Science, Healthcare AI, and related applied AI roles**.
 
 ---
 
-## 🧠 What I Work With
+##  What I Work With
 
 ### Artificial Intelligence & Machine Learning
 `Python` `TensorFlow` `Keras` `Scikit-learn` `CNN` `VGG-19` `OpenCV`
@@ -46,9 +46,9 @@ I enjoy taking an idea from **problem → architecture → implementation → te
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🏋️ AI-Based Exercise Posture Correction System
+###  AI-Based Exercise Posture Correction System
 
 **Python · TensorFlow · Keras · CNN · VGG-19 · OpenCV · Streamlit · Flask · SQLite**
 
@@ -64,7 +64,7 @@ A full-stack deep learning application for exercise posture classification.
 
 ---
 
-### ❤️ ECG Arrhythmia Signal Processing Pipeline
+###  ECG Arrhythmia Signal Processing Pipeline
 
 **Python · WFDB · SciPy · Scikit-learn · NumPy**
 
@@ -75,11 +75,11 @@ An end-to-end ECG preprocessing pipeline built using the **MIT-BIH Arrhythmia Da
 - R-peak segmentation
 - Feature preparation for **1D CNN** models
 
-🔗 **[View Project →](https://github.com/H3xiee/ECG-Prediction)**
+ **[View Project →](https://github.com/H3xiee/ECG-Prediction)**
 
 ---
 
-### 🕷️ Web Crawler — Cybersecurity Reconnaissance Pipeline
+###  Web Crawler — Cybersecurity Reconnaissance Pipeline
 
 **Python · Asyncio · BeautifulSoup · JSON**
 
@@ -92,11 +92,11 @@ An intelligence-driven web crawler designed for structured cybersecurity reconna
 - Graph-based visualization
 - Structured JSON outputs designed for downstream AI workflows
 
-🔗 **[View Project →](https://github.com/H3xiee/crawler)**
+ **[View Project →](https://github.com/H3xiee/crawler)**
 
 ---
 
-### 🤖 Oryn — Autonomous AI Software Engineering System
+###  Oryn — Autonomous AI Software Engineering System
 
 **Generative AI · LLMs · RAG · Autonomous Agents**
 
@@ -110,7 +110,7 @@ An autonomous AI software engineering system designed to work through software t
 - Iterates on fixes
 - Verifies that the result actually works before marking the task complete
 
-🔒 **Repository: Private**
+ **Repository: Private**
 
 ---
 
@@ -130,7 +130,7 @@ An autonomous AI software engineering system designed to work through software t
 
 ---
 
-## 🎓 Education
+##  Education
 
 **B.Tech — Biomedical Engineering**  
 PSNA College of Engineering and Technology, Dindigul  
@@ -138,12 +138,10 @@ PSNA College of Engineering and Technology, Dindigul
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 - **PG Diploma in AI/ML in Healthcare** — Clinilaunch Research Institute
-- **How to Build a Chatbot Using Python** — Great Learning
 
----
 
 ## 🔭 What I'm Exploring Now
 
@@ -165,7 +163,7 @@ I'm particularly interested in how AI can move beyond **answer generation** towa
 
 ---
 
-## 📊 My Technical Interests
+##  My Technical Interests
 
 | Area | Focus |
 |---|---|
@@ -178,7 +176,7 @@ I'm particularly interested in how AI can move beyond **answer generation** towa
 
 ---
 
-## 🌱 How I Build
+##  How I Build
 
 **Learn → Build → Test → Break → Understand → Improve**
 
@@ -187,7 +185,7 @@ Every project is an opportunity to understand **why a system works, where it fai
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 I'm interested in connecting with **AI/ML engineers, data scientists, healthcare AI teams, researchers, startups, and teams building real-world intelligent systems**.
 
