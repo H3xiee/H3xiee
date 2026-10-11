@@ -141,7 +141,8 @@ PSNA College of Engineering and Technology, Dindigul
 ## Certifications
 
 - **PG Diploma in AI/ML in Healthcare** — Clinilaunch Research Institute
-
+  
+---
 
 ## 🔭 What I'm Exploring Now
 
